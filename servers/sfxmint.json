@@ -1,0 +1,9 @@
+{
+  "name": "SFXMint",
+  "url": "https://github.com/flreey/sfxmint-mcp",
+  "category": "media",
+  "transport": "http",
+  "description": "Find CC0 app and game sound effects by event, set or description and retrieve download URLs without a key; optional custom generation requires a key and paid pass or plan. [Docs](https://sfxmint.com/api/docs)",
+  "endpoint": "https://sfxmint.com/mcp",
+  "registry": "com.sfxmint/sounds"
+}
