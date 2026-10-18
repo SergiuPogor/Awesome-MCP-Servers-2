@@ -1,0 +1,8 @@
+{
+  "name": "ScraperSocial",
+  "url": "https://scrapersocial.com/mcp/",
+  "category": "marketing",
+  "transport": "http",
+  "description": "Read-only public social media data: profiles, posts, engagement stats, comments, keyword and hashtag search, reviews, trending and video transcripts across 30+ platforms including TikTok, Instagram, LinkedIn, YouTube, X and Reddit. OAuth or a Bearer API key; 100 free credits, no card. Endpoint: `https://mcp.scrapersocial.com` · [Docs](https://scrapersocial.com/mcp/)",
+  "endpoint": "https://mcp.scrapersocial.com"
+}
