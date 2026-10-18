@@ -1,0 +1,8 @@
+{
+  "name": "Zerouter MCP",
+  "url": "https://github.com/ZerouterAI/zerouter-mcp",
+  "category": "developer-tools",
+  "transport": "stdio",
+  "description": "AI API gateway MCP for Claude, GPT, Gemini, Grok and Kimi through one OpenAI-compatible API key: chat, compare models side by side, and look up API pricing; pricing and model list work without a key. Install: [MCPB bundle](https://github.com/ZerouterAI/zerouter-mcp/releases/tag/v0.1.0) · [Website](https://www.zerouter.ai)",
+  "registry": "io.github.ZerouterAI/zerouter-mcp"
+}
