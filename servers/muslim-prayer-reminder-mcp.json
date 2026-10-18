@@ -1,0 +1,8 @@
+{
+  "name": "Muslim Prayer Reminder MCP",
+  "url": "https://github.com/tareq7/muslim-prayer-mcp",
+  "category": "productivity",
+  "transport": "http",
+  "description": "Calculates local Muslim prayer times using regional methods and shows next-prayer countdowns over Streamable HTTP MCP.",
+  "endpoint": "https://muslim-prayer-mcp.najetareqz.workers.dev/mcp"
+}
