@@ -1,0 +1,9 @@
+{
+  "name": "Enhanciar",
+  "url": "https://github.com/enhanciar/enhanciar-mcp",
+  "category": "knowledge-memory",
+  "transport": "http",
+  "description": "Hosted company-brain server: answers questions from a team's Slack, Gmail, Notion, Drive, Jira, Linear and GitHub with a source link, and drafts tickets or replies for a person to approve. Needs an Enhanciar API key (paid plans). [Website](https://enhanciar.in)",
+  "endpoint": "https://enhanciar.in/enhanciar/mcp/",
+  "registry": "in.enhanciar/enhanciar"
+}
