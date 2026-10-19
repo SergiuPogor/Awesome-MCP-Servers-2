@@ -1,0 +1,8 @@
+{
+  "name": "helloasso-mcp",
+  "url": "https://github.com/edouard-claude/helloasso-mcp",
+  "category": "finance",
+  "transport": "stdio",
+  "description": "HelloAsso, the payment platform of French associations: members, event tickets, donations, payments, refunds and checkout links, all 36 v5 API routes. Install: `cargo install --git https://github.com/edouard-claude/helloasso-mcp`",
+  "registry": "io.github.edouard-claude/helloasso-mcp"
+}
