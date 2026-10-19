@@ -1,0 +1,8 @@
+{
+  "name": "AI观潮 News MCP",
+  "url": "https://aiguanchao.com/en/agent",
+  "category": "search",
+  "transport": "http",
+  "description": "Curated AI news, daily briefs, trending stories and an LLM leaderboard, with summaries in Chinese and a source link for every item; needs a personal token (free daily quota, then points). Install: `claude mcp add --transport http aiguanchao https://aiguanchao.com/mcp --header \"Authorization: Bearer dn_xxx\"` · [Docs](https://aiguanchao.com/en/agent)",
+  "endpoint": "https://aiguanchao.com/mcp"
+}
