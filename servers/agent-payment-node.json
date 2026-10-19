@@ -1,0 +1,7 @@
+{
+  "name": "Agent Payment Node",
+  "url": "https://github.com/nuanu-ai/agent-payment-node",
+  "category": "finance",
+  "transport": "stdio",
+  "description": "Local CLI and stdio MCP payments on macOS; signing requires foreground owner approval. Install: `brew install nuanu-ai/tap/apn`; launch: `apn mcp serve`."
+}

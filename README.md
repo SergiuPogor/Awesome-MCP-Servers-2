@@ -209,6 +209,7 @@ A listing is not a security review. Read a server's source and permissions befor
 
 ### Finance & markets
 
+- **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** `stdio` — Local CLI and stdio MCP payments on macOS; signing requires foreground owner approval. Install: `brew install nuanu-ai/tap/apn`; launch: `apn mcp serve`.
 - **[AskCyborg](https://github.com/Ask-Cyborg/askcyborg-mcp)** `http` — Stress-tests public and private companies through analyst debate: reports, scores, comparisons, competitors, recent developments. Anonymous free tier, no API key. Endpoint: `https://mcp.askcyborg.com/mcp`
 - **[BankBridge](https://github.com/bankbridge-money/bankbridge-plugin)** `http` — Read-only access to your US bank accounts, card transactions and investment holdings: spending, subscriptions, cashflow. Paid, OAuth sign-in or API key. Endpoint: `https://bankbridge.money/api/mcp` · [Website](https://bankbridge.money) · Registry: `money.bankbridge/server`
 - **[BlockVectra](https://github.com/blockvectra/mcp)** `http` — Multi-chain EVM JSON-RPC, indexed Data API, documentation, pricing and status for developers and AI agents. Documentation, chain, pricing and status tools need no API key; Data API tools require one. Endpoint: `https://docs.blockvectra.com/mcp` · [Docs](https://docs.blockvectra.com/en/)
