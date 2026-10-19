@@ -1,0 +1,7 @@
+{
+  "name": "Yap MCP",
+  "url": "https://github.com/founden-bot/yap-mcp",
+  "category": "media",
+  "transport": "stdio",
+  "description": "Transcribes audio and video files on your computer with NVIDIA Parakeet TDT v3 (25 European languages, no API key, no upload) and searches your Yap dictation history. MIT licensed. Install: `claude mcp add yap -- npx -y github:founden-bot/yap-mcp` · [Website](https://yapapp.cc/mcp)"
+}
