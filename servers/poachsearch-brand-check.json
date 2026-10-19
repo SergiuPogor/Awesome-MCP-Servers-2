@@ -1,0 +1,9 @@
+{
+  "name": "PoachSearch Brand Check",
+  "url": "https://poachsearch.com/developers",
+  "category": "marketing",
+  "transport": "http",
+  "endpoint": "https://poachsearch.com/mcp",
+  "registry": "com.poachsearch/brand-check",
+  "description": "Find affiliates bidding on your brand in search ads, by country. First 100 searches free."
+}
