@@ -1,0 +1,8 @@
+{
+  "name": "ent1-mcp",
+  "url": "https://github.com/edouard-claude/ent1-mcp",
+  "category": "productivity",
+  "transport": "stdio",
+  "description": "ENT ONE, the French primary-school digital workspace (Edifice), for parents: teacher messaging, liaison book, homework (mark as done), school news, calendar and documents. Install: `cargo install --git https://github.com/edouard-claude/ent1-mcp`",
+  "registry": "io.github.edouard-claude/ent1-mcp"
+}
