@@ -1,0 +1,9 @@
+{
+  "name": "Account Executive Jobs",
+  "url": "https://github.com/854Labs/account-executive-jobs",
+  "category": "productivity",
+  "transport": "http",
+  "description": "Search and apply to account executive and sales jobs; employers draft and publish job posts and review applicants. Hosted, OAuth 2.1 sign-in. · [Website](https://accountexecutivejobs.com/ai)",
+  "endpoint": "https://mcp.accountexecutivejobs.com/mcp",
+  "registry": "com.accountexecutivejobs/mcp"
+}
