@@ -1,0 +1,9 @@
+{
+  "name": "UI Verify",
+  "url": "https://uiverify.ai/docs/mcp-tools",
+  "category": "developer-tools",
+  "transport": "http",
+  "description": "Visual testing for coding agents: list a pull request's UI changes, view each before-and-after screenshot diff with the AI judge's verdict, and accept the intended baselines. Browser OAuth login, no API key. Endpoint: `https://uiverify.ai/mcp` · [Docs](https://uiverify.ai/docs/mcp-tools)",
+  "endpoint": "https://uiverify.ai/mcp",
+  "registry": "io.github.igrlk/uiverify"
+}
