@@ -1,0 +1,9 @@
+{
+  "name": "Quibbly",
+  "url": "https://github.com/Scriptify-Inc/linkedin-mcp",
+  "category": "marketing",
+  "transport": "http",
+  "description": "LinkedIn inbox for AI assistants, synced by the Quibbly Chrome extension: read conversations and connections, see who watched your videos, set follow-ups and notes, and draft replies that you send with one click; never sends on its own and works alongside any CRM. OAuth 2.1 or personal access token, paid plans with a 3-day free trial. Endpoint: `https://server.quibbly.co/mcp` · [Docs](https://quibbly.co/docs/mcp) · Registry: `co.quibbly/linkedin-inbox`",
+  "endpoint": "https://server.quibbly.co/mcp",
+  "registry": "co.quibbly/linkedin-inbox"
+}
