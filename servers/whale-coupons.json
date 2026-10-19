@@ -1,0 +1,9 @@
+{
+  "name": "Whale Coupons",
+  "url": "https://github.com/whalecoupons/whale-coupons-mcp",
+  "category": "commerce-travel",
+  "transport": "http",
+  "description": "Read-only search for store-issued coupon and discount codes from independent online stores, so an assistant can find codes for a named store, domain or product category. No account or API key. Endpoint: `https://whalecoupons.co/mcp` · [Website](https://whalecoupons.co) · Registry: `co.whalecoupons/whale-coupons`",
+  "endpoint": "https://whalecoupons.co/mcp",
+  "registry": "co.whalecoupons/whale-coupons"
+}
