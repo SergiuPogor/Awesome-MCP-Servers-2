@@ -199,6 +199,7 @@ A listing is not a security review. Read a server's source and permissions befor
 - **[SFXMint](https://github.com/flreey/sfxmint-mcp)** `http` — Find CC0 app and game sound effects by event, set or description and retrieve download URLs without a key; optional custom generation requires a key and paid pass or plan. [Docs](https://sfxmint.com/api/docs)
 - **[UpRes](https://github.com/auroracapital/upres-cli)** `stdio` — UpRes MCP: list models, credits, and submit 4K image and video upscale jobs. Install: `npx -y upres-cli`
 - **[VideoGen MCP](https://github.com/video-gen/videogen-mcp)** `http` — Create editable videos from storyboards, scripts or voiceovers, generate media, edit projects and export results through the VideoGen API; account and generation credits required. Hosted HTTP with OAuth/API key or local stdio via `npx -y @videogen/mcp@2.2.1` with `VIDEOGEN_API_KEY`; MIT server; [Setup](https://videogen.io/videogen-mcp).
+- **[Yap MCP](https://github.com/founden-bot/yap-mcp)** `stdio` — Transcribes audio and video files on your computer with NVIDIA Parakeet TDT v3 (25 European languages, no API key, no upload) and searches your Yap dictation history. MIT licensed. Install: `claude mcp add yap -- npx -y github:founden-bot/yap-mcp` · [Website](https://yapapp.cc/mcp)
 
 ### Security
 
