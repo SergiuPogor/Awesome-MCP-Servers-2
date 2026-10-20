@@ -1,0 +1,9 @@
+{
+  "name": "gpu.nz GPU Cloud",
+  "url": "https://github.com/gpunz/gpunz-mcp",
+  "category": "cloud-data",
+  "transport": "http",
+  "description": "Find GPU servers with live per-minute prices, estimate how much VRAM an LLM or image model needs, and launch, monitor and stop GPU servers (ComfyUI, Ollama, vLLM, Jupyter) on the gpu.nz cloud. Browsing and VRAM estimates need no key; renting needs an API key. Endpoint: `https://gpu.nz/mcp` · [Docs](https://gpu.nz/en/docs/mcp)",
+  "endpoint": "https://gpu.nz/mcp",
+  "registry": "nz.gpu/gpu-cloud"
+}
