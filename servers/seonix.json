@@ -1,0 +1,9 @@
+{
+  "name": "Seonix",
+  "url": "https://seonix.ai/mcp",
+  "category": "marketing",
+  "transport": "http",
+  "description": "SEO workspace for agents, read-only (36 tools): Search Console and GA4 rankings and clicks, technical audit issues, keyword clusters, content, and brand mentions in ChatGPT, Gemini, Claude and Perplexity answers. Bearer API key on paid plans. Endpoint: `https://api.seonix.ai/mcp` · Registry: `io.github.pahaa97/seonix`",
+  "endpoint": "https://api.seonix.ai/mcp",
+  "registry": "io.github.pahaa97/seonix"
+}
