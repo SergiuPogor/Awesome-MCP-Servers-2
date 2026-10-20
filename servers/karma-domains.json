@@ -1,0 +1,8 @@
+{
+  "name": "Karma.Domains",
+  "url": "https://github.com/karma-domains/expired-domains-mcp",
+  "category": "marketing",
+  "transport": "http",
+  "description": "Search 13M+ expired, auction, backorder and buy-now domains from 40 sources with Wayback Machine history, Karma Score, Ahrefs/Moz/Majestic metrics and 90+ filters, plus live WHOIS, DNS, domain age and spam-score checks. Pro plan required; OAuth or API key. Endpoint: `https://mcp.karma.domains/mcp` · [Docs](https://karma.domains/en/expired-domains-mcp/)",
+  "endpoint": "https://mcp.karma.domains/mcp"
+}
