@@ -1,0 +1,8 @@
+{
+  "name": "NeverApply",
+  "url": "https://github.com/kasovy/neverapply-mcp",
+  "category": "productivity",
+  "transport": "http",
+  "description": "AI job-search agent: search and match jobs, tailor resumes, answer screening questions, and apply with your approval. Hosted, OAuth 2.1 sign-in. · [Website](https://neverapply.co) · [Docs](https://neverapply.co/features/mcp)",
+  "endpoint": "https://neverapply.co/mcp"
+}
