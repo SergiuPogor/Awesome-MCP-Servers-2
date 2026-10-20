@@ -1,9 +1,9 @@
 {
   "name": "Datacircle",
-  "url": "https://docs.datacircle.dev/mcp-server",
+  "url": "https://datacircle.dev/docs/mcp",
   "category": "marketing",
   "transport": "http",
-  "description": "Query your favorite B2B data APIs through us. Same request, same price, no markup. OAuth sign-in, or an API key as a Bearer token. Endpoint: `https://api.datacircle.dev/mcp` · [Website](https://datacircle.dev) · Registry: `dev.datacircle/datacircle`",
+  "description": "Datacircle lists all the GTM APIs. Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor. Endpoint: `https://api.datacircle.dev/mcp` · [Website](https://datacircle.dev) · Registry: `dev.datacircle/datacircle`",
   "endpoint": "https://api.datacircle.dev/mcp",
   "registry": "dev.datacircle/datacircle"
 }
