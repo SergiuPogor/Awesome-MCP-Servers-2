@@ -1,0 +1,9 @@
+{
+  "name": "/call-me",
+  "url": "https://github.com/radres/call-me",
+  "category": "productivity",
+  "transport": "http",
+  "description": "Rings your iPhone so an agent can ask a question out loud and get your spoken answer back as text, or text you; no auth on the endpoint, needs the /call-me iPhone app (paid subscription). Endpoint: `https://callmemcp.com/mcp`",
+  "endpoint": "https://callmemcp.com/mcp",
+  "registry": "com.callmemcp/call-me"
+}

@@ -320,6 +320,7 @@ A listing is not a security review. Read a server's source and permissions befor
 
 ### Work & productivity
 
+- **[/call-me](https://github.com/radres/call-me)** `http` — Rings your iPhone so an agent can ask a question out loud and get your spoken answer back as text, or text you; no auth on the endpoint, needs the /call-me iPhone app (paid subscription). Endpoint: `https://callmemcp.com/mcp`
 - **[Account Executive Jobs](https://github.com/854Labs/account-executive-jobs)** `http` — Search and apply to account executive and sales jobs; employers draft and publish job posts and review applicants. Hosted, OAuth 2.1 sign-in. · [Website](https://accountexecutivejobs.com/ai)
 - **[AI Applyd](https://github.com/whateverneveranywhere/aiapplyd-mcp)** `http` — ATS resume scoring, job-description analysis, interview prep, cover letters, resume building, and auto-apply that submits on the employer's own hiring system. [Website](https://aiapplyd.com/mcps)
 - **[atlassian-browser-mcp](https://github.com/GeiserX/atlassian-browser-mcp)** `stdio` — Wraps mcp-atlassian with a Playwright browser-cookie login, so its Jira and Confluence tools work on Atlassian Server/Data Center behind corporate SSO (Okta, SAML) where API tokens are not available. Install: clone and `uv pip install -e .`, then `./atlassian-cli login jira` once per service · [Docs](https://github.com/GeiserX/atlassian-browser-mcp/blob/main/docs/getting-started.md)
