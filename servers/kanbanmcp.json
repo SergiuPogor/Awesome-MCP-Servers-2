@@ -1,0 +1,9 @@
+{
+  "name": "KanbanMCP",
+  "url": "https://kanbanmcp.com/docs/connect",
+  "category": "productivity",
+  "transport": "http",
+  "description": "Hosted kanban board where AI agents claim cards, check in while they work, and hand off with notes. OAuth sign-in, Free plan",
+  "endpoint": "https://kanbanmcp.com/",
+  "registry": "com.kanbanmcp/kanbanmcp"
+}
