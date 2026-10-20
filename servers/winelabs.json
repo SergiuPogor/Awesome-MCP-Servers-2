@@ -1,0 +1,9 @@
+{
+  "name": "Wine Labs",
+  "url": "https://winelabs.ai/agents",
+  "category": "finance",
+  "transport": "http",
+  "description": "Wine identity matching, prices, auction results, merchant comparisons, and cellar workflows; Wine Labs account and OAuth sign-in required.",
+  "endpoint": "https://chat.wine-labs.com/mcp",
+  "registry": "io.github.imiraoui/winelabs"
+}
