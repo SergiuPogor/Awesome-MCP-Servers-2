@@ -1,0 +1,9 @@
+{
+  "name": "PlaceCall",
+  "url": "https://github.com/voygr-tech/placecall",
+  "category": "productivity",
+  "transport": "http",
+  "description": "An AI agent calls US businesses for you to book reservations and appointments, ask questions or get quotes; it handles phone menus and hold, can check back with you mid-call, and reports the outcome with transcript and recording. 250 free calls with every new API key. Endpoint: `https://api.voygr.tech/mcp` (OAuth or API key) · [Docs](https://api.voygr.tech/docs)",
+  "endpoint": "https://api.voygr.tech/mcp",
+  "registry": "io.github.voygr-tech/placecall"
+}
