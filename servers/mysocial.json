@@ -1,0 +1,9 @@
+{
+  "name": "Mysocial",
+  "url": "https://github.com/mysocialio/mysocial-intelligence",
+  "category": "marketing",
+  "transport": "http",
+  "description": "Social media intelligence from connected channel history, performance data, and creator memory; hosted Streamable HTTP with OAuth 2.1 and a Mysocial account.",
+  "endpoint": "https://app.mysocial.io/mcp",
+  "registry": "io.mysocial/mysocial"
+}
