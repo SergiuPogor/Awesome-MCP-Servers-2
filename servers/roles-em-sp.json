@@ -1,0 +1,9 @@
+{
+  "name": "Rolês em SP",
+  "url": "https://rolesemsp.com.br/",
+  "category": "search",
+  "transport": "http",
+  "description": "Curated cultural and leisure catalogue discovery across São Paulo, Brazil. Semantic exploration of cultural spots, nightlife, exhibits, gastronomy, and local outings via 3 read-only tools (`search_roles`, `get_role_details`, `list_categories_and_regions`). Streamable HTTP endpoint with OAuth/access eligibility.",
+  "endpoint": "https://rolesemsp.com.br/mcp",
+  "registry": "br.com.rolesemsp/roles-catalogue-mcp"
+}
