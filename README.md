@@ -240,6 +240,7 @@ A listing is not a security review. Read a server's source and permissions befor
 - **[The Stall](https://github.com/thebrierfox/the-stall)** `http` — About 300 pay-per-call capabilities: US/EU/JP/KR/AU equities, options chains, DeFi yields, blockchain analytics, macro indicators, wallet intelligence, and prediction markets. Paid per call in USDC on Base ($0.001–$1.50), no API key. Endpoint: `https://the-stall.intuitek.ai/mcp`
 - **[Truthifi](https://github.com/truthifi/truthifi-mcp)** `http` — One verified household record for your AI: accounts, activity, holdings, fees, performance, cash flow and your Truthifi Score. Can't move money. Endpoint: `https://api.truthifi.com/mcp` · [Docs](https://truthifi.com/mcp-tools) · Registry: `com.truthifi/mcp`
 - **[VoxOdds](https://github.com/softdevfz/voxodds-mcp)** `http` — Prediction-market research across Polymarket and Kalshi: odds for the same contract on both venues, the all-in executable price for a budget with estimated taker fees and which venue fills cheaper, trending markets, edge signals and an audited forecast track record. Read-only, no API key. Endpoint: `https://voxodds.com/mcp` · [Docs](https://voxodds.com/llms.txt) · Registry: `com.voxodds/voxodds`
+- **[Wine Labs](https://winelabs.ai/agents)** `http` — Wine identity matching, prices, auction results, merchant comparisons, and cellar workflows; Wine Labs account and OAuth sign-in required.
 
 ### Marketing, content & social
 
