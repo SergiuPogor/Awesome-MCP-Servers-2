@@ -1,0 +1,9 @@
+{
+  "name": "aikstockdata",
+  "url": "https://github.com/na77tech-creator/aikstockdata",
+  "category": "finance",
+  "transport": "http",
+  "description": "Korean listed companies (KOSPI, KOSDAQ, KONEX): previous-day settled closing prices, DART filings with receipt times, earnings from periodic filings and post-filing price paths by filing type. No account or API key. Endpoint: `https://mcp.aikstockdata.com/mcp` · Registry: `com.aikstockdata/mcp`",
+  "endpoint": "https://mcp.aikstockdata.com/mcp",
+  "registry": "com.aikstockdata/mcp"
+}
