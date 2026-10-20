@@ -1,0 +1,8 @@
+{
+  "name": "sqlite-graph-memory",
+  "url": "https://github.com/tonydzi/sqlite-graph-memory",
+  "category": "knowledge-memory",
+  "transport": "stdio",
+  "description": "Recall over a folder of markdown notes: vector search plus the notes' `[[wikilinks]]` as a graph, in one SQLite file with no server to run. MIT. Install: `uvx --with 'sqlite-graph-memory[embeddings]' sqlite-graph-memory` · Registry: `io.github.tonydzi/sqlite-graph-memory`",
+  "registry": "io.github.tonydzi/sqlite-graph-memory"
+}
