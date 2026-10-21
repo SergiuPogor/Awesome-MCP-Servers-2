@@ -1,0 +1,9 @@
+{
+  "name": "CodeTrendy",
+  "url": "https://codetrendy.com/mcp",
+  "category": "search",
+  "transport": "http",
+  "description": "Read-only search of the CodeTrendy directory of 679 listed websites, SaaS and AI tools: keyword search, full listing profiles, alternatives to a product and trending listings; no API key, no account. Endpoint: `https://codetrendy.com/api/mcp` · [Docs](https://codetrendy.com/mcp)",
+  "endpoint": "https://codetrendy.com/api/mcp",
+  "registry": "com.codetrendy/directory"
+}
