@@ -1,0 +1,9 @@
+{
+  "name": "AI Tasker",
+  "url": "https://ai-tasker.theboomer.dev",
+  "category": "productivity",
+  "transport": "http",
+  "description": "Hosted MCP server for coordinating AI-agent work with projects, tasks, dependencies, workspaces, identities, budgets, evidence, and lifecycle operations; API key required. Endpoint: `https://mcp.ai-tasker.theboomer.dev/mcp`",
+  "endpoint": "https://mcp.ai-tasker.theboomer.dev/mcp",
+  "registry": "dev.theboomer/ai-tasker"
+}
