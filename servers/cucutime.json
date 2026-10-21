@@ -1,0 +1,9 @@
+{
+  "name": "Cucutime",
+  "url": "https://cucutime.org/developers",
+  "category": "media",
+  "transport": "http",
+  "description": "Personalized kids-song ideas, name pages and search over the CucuTime YouTube catalog, free, with no key and no AI; a free trial key adds a 30-second personalized song and kids-text moderation for adult-facing apps only. Endpoint: `https://cucutime.org/mcp` · [Docs](https://cucutime.org/developers) · Registry: `org.cucutime/mcp`",
+  "endpoint": "https://cucutime.org/mcp",
+  "registry": "org.cucutime/mcp"
+}
