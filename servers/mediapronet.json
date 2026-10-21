@@ -1,0 +1,9 @@
+{
+  "name": "MEDIAPRONET",
+  "url": "https://mediapronet.com/mcp",
+  "category": "search",
+  "transport": "http",
+  "description": "Read-only search of the MEDIAPRONET launch directory of newly launched startups, SaaS and AI tools: keyword search, full listing profiles, alternatives to a product and trending listings; no API key, no account. Endpoint: `https://mediapronet.com/api/mcp` · [Docs](https://mediapronet.com/mcp)",
+  "endpoint": "https://mediapronet.com/api/mcp",
+  "registry": "com.mediapronet/directory"
+}
