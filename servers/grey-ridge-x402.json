@@ -1,8 +1,8 @@
 {
-  "name": "Grey Ridge x402 Pre-Trade Gate",
+  "name": "Grey Ridge x402 Market & DeFi Data",
   "url": "https://github.com/rezearcher/x402-data-api",
   "category": "finance",
   "transport": "http",
-  "description": "Pre-trade safety gate for Base tokens: GO/HOLD/BLOCK swap verdicts and token due-diligence (honeypot, transfer tax, liquidity), plus on-chain and DeFi data. Free preview tools; paid calls settle per request in USDC via x402. Endpoint: `https://x402-data-api.sigrunner.workers.dev/mcp`",
+  "description": "Keyless market data for Base agents: live DeFi yields, perp funding rates, crypto spot prices and prediction-market odds, plus a pre-trade token-safety gate (GO/HOLD/BLOCK swap verdicts; honeypot, transfer-tax and liquidity checks). Free preview tools; paid calls settle per request in USDC via x402, no key or account. Endpoint: `https://x402-data-api.sigrunner.workers.dev/mcp`",
   "endpoint": "https://x402-data-api.sigrunner.workers.dev/mcp"
 }
