@@ -1,0 +1,7 @@
+{
+  "name": "Koru",
+  "url": "https://github.com/koruworks/mono",
+  "category": "knowledge-memory",
+  "transport": "stdio",
+  "description": "Local MCP server for Koru, a free, open-source (MPL-2.0), local-first workspace for notes, docs and files built natively in Rust: search and read documents and files, and create and edit documents in the local database on the device, with no account or API key. Install: the Koru desktop app for Windows or macOS (Apple silicon) · [Download](https://koru.do/download) · [Docs](https://github.com/koruworks/mono/blob/main/crates/koru-mcp-server/MCP.md)"
+}
