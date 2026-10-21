@@ -1,0 +1,8 @@
+{
+  "name": "Warden MCP",
+  "url": "https://github.com/warden-protocol/warden-mcp",
+  "category": "finance",
+  "transport": "http",
+  "description": "Remote MCP server for Warden Token Terminal: AI agents find tokens, quote swaps and trade onchain on Base, BNB Chain, Robinhood Chain and Arc within limits the user sets. Market tools need no account; wallet and trading tools need a free Warden account (OAuth or agent key).",
+  "endpoint": "https://tokens.wardenprotocol.org/mcp"
+}
