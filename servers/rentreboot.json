@@ -1,0 +1,9 @@
+{
+  "name": "RentReboot",
+  "url": "https://github.com/imiraoui/rentreboot-mcp",
+  "category": "search",
+  "transport": "http",
+  "description": "NYC renter guides and neighborhood rent percentiles without an account; scoped OAuth tools for apartment alerts, saved searches and Housing Lottery statuses. Endpoint: `https://rentreboot.com/api/mcp`",
+  "endpoint": "https://rentreboot.com/api/mcp",
+  "registry": "io.github.imiraoui/rentreboot"
+}
