@@ -1,0 +1,7 @@
+{
+  "name": "Vids Studio",
+  "url": "https://github.com/Shugar86/vids-studio",
+  "category": "media",
+  "transport": "stdio",
+  "description": "Local MCP server and Chrome extension for observing and editing an explicitly attached Google Vids document from Codex or Claude Code; Windows/macOS/Linux preview, Google Vids account access required. [Setup](https://github.com/Shugar86/vids-studio/blob/main/docs/en/installation.md)"
+}
